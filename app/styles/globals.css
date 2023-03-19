@@ -1,0 +1,13 @@
+body {
+  padding: 3.625rem 0 7.75rem;
+}
+
+header,
+main {
+  max-width: 46rem;
+  margin: auto;
+}
+
+main {
+  margin-top: 2.8125rem;
+}
